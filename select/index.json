@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ときはなて！",
+  "base_artist": "はしメロ",
+  "createdAt": "2026-03-05T08:28:28.009658Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ときはなて！  (TV version)",
+      "artist": "Hashimero",
+      "has_synced": false,
+      "path": "select/01_ときはなて!_(TV_version)_Hashimero.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ときはなて!",
+      "artist": "はしメロ",
+      "has_synced": false,
+      "path": "select/pl_01_ときはなて!_はしメロ.txt"
+    }
+  ]
+}
